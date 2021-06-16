@@ -7,6 +7,7 @@
   "chapters": {
     "5": {
       "title": "Chapter 5",
+      "volume": "0",
       "groups": {
         "Chimera Scans": "/proxy/api/imgur/chapter/IMdstj1/"
       },
@@ -14,10 +15,19 @@
     },
     "6": {
       "title": "Chapter 6",
+      "volume": "0",
       "groups": {
         "Chimera Scans": "/proxy/api/imgur/chapter/qcL4mnx/"
       },
       "last_updated": "1623120625"
+    },
+       "7": {
+      "title": "Chapter 7",
+      "volume": "0",
+      "groups": {
+        "Chimera Scans": "/proxy/api/imgur/chapter/jK8JsRU/"
+      },
+      "last_updated": "1623868873"
     }
   }
 }
