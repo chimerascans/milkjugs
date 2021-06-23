@@ -36,6 +36,22 @@
         "Chimera Scans": "/proxy/api/imgur/chapter/FFlaeAE/"
       },
       "last_updated": "1624421644"
+    },
+      "9": {
+      "title": "Chapter 9",
+      "volume": "0",
+      "groups": {
+        "Chimera Scans": "/proxy/api/imgur/chapter/bV6Djzt/"
+      },
+      "last_updated": "1624424352"
+    },
+      "10": {
+      "title": "Chapter 10",
+      "volume": "0",
+      "groups": {
+        "Chimera Scans": "/proxy/api/imgur/chapter/1BoxK5L/"
+      },
+      "last_updated": "1624424352"
     }
   }
 }
